@@ -13,6 +13,12 @@ public class Wrapper {
 		int b=i.intValue();
 		
 		System.out.println(b);
+		
+		float f=20.5f;
+		
+		Float ft=new Float(f);
+		
+		System.out.println(ft);
 	}
 
 }
